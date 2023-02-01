@@ -1,6 +1,10 @@
-1. How has your knowledge of the tech field changed since class began?
+1. How has your knowledge of the tech field changed since class began? 
+
+My knowledge of the tech field has changed significantly since I began this program back in October 2022. For example, I learned more about data analytics, algorithms, database management, cybersecurity, quality assurance, UI/UX principles. I have primarily wanted to stick to front-end development since I began programming, but I am grateful for this wealth of knowledge I have gained over the last few months.
 
 2. What was the most difficult part of Foundations for you? And how did you overcome that?
+
+
 
 3. Did you learn anything about the way you learn? What was it?
 
