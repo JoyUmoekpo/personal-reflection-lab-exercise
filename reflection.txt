@@ -4,12 +4,20 @@ My knowledge of the tech field has changed significantly since I began this prog
 
 2. What was the most difficult part of Foundations for you? And how did you overcome that?
 
-
+The most difficult part of Foundations was Quality Assurance during week 6. Before the program, I was not very experienced with writing JavaScript unit tests, test cases, and bug reports. So, I had some trouble with during the end of week assessment. The assessment took me the entire weekend to complete. I overcame my issues with the assesssment by going through the demo and lab exercises to figure out what I was missing. This step was crucial for me to deploy that assessment to AWS properly. 
 
 3. Did you learn anything about the way you learn? What was it?
 
+I learned better ways to organize my notes and properly learn concepts that were new to me. I learned more when trying to practice new topics in VSC alongside the morning demos. Additionally, I learned and I absorbed more through explaining concepts to other people as well. 
+
 4. How will you apply what you know about your learning style during Specializations?
+
+I will apply this learning style while watching Specialization videos and during pair programming with other members of my cohort. During pair programming and troubleshooting projects, I will explain what I have learned and concepts of a given project. I plan to continue doing this even after specializations is done.
 
 5. What was your experience with pair programming like?
 
+My experience with pair programming has been good thus far! I have learned more about through speaking about concepts with my pair programming partners and working through the exercises. All of my partner were great to work with as well!
+
 6. What parts of Foundations did you enjoy the most? (This could be anything from a specific lab or lecture to the general setup of class or a funny moment.)
+
+Surprisingly, I really enjoyed the second week when we were working on design with Figma. When I first started software development, I did not enjoy working with Figma and had some trouble with visualizing how I wanted websites to look. This time around, I actually liked designing wireframes for the lab exercise that day and even for my capstone. I will continue to use Figma or an alternate for my future projects from now on.
